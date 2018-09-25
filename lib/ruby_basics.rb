@@ -20,7 +20,6 @@ def return_a_value(word="Nice")
 end
 
 def last_evaluated_value (value)
-  put value
   value
 end
 
